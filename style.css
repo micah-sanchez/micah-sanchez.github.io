@@ -1,27 +1,25 @@
+
+/* color scheme and font for overall page */
 * {
 font-family: Arial;
 background-color: #212121;
 color: white;
 }
 
-html, body {
-  height: 100%;
-  width: 100%;
-}
-
 h1, h2 {
   padding: 10px  
 }
 
+/* centering the image on the page */
 img {
-  width: 40%;
   text-align: center;
 }
 
+/* centering the header on the page */
 header {
   text-align: center
 }
-
+/* centering the h3 header and the footer on the page */
 h3, footer {
   text-align: center
 }
@@ -33,6 +31,7 @@ h3, footer {
   width: 50%;
 }
 
+/* styled links */
 a:link {
   color: purple
 }
