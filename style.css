@@ -34,10 +34,10 @@ h3, footer {
 
 /* styled links */
 a:link {
-  color: #00ff11
+  color: purple
 }
 a:visited {
-  color: purple
+  color: #00ff11
 }
 a:hover {
   color: red
