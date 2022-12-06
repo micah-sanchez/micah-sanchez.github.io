@@ -21,7 +21,8 @@ header {
 }
 /* centering the h3 header and the footer on the page */
 h3, footer {
-  text-align: center
+  text-align: center;
+  font-size: 12px;
 }
 
 .center {
